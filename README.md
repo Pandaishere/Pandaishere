@@ -3,7 +3,5 @@
 ## I’m a Trainee Quality Assurance engineer from Ukraine, Kyiv 🇺🇦
 
 ### Tools
-![Jira](https://img.shields.io/badge/-Jira-7e8d8a?style=plastic-square&logo=Jira&logoColor=39f)
-
-![Postman](https://img.shields.io/badge/-Postman-7e8d8a?style=plastic-square&logo=Postman&logoColor=f63)
+![Jira](https://img.shields.io/badge/-Jira-7e8d8a?style=plastic-square&logo=Jira&logoColor=39f) ![Postman](https://img.shields.io/badge/-Postman-7e8d8a?style=plastic-square&logo=Postman&logoColor=f63)
 
