@@ -10,8 +10,4 @@
 
 ### Follow me 📲
 
-[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-626961?style=plastic&logo=Telegram)](https://t.me/anna_liubchych)
-
-![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-626961?style=plastic&logo=Instagram)
-
-[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-626961?style=plastic&logo=Linkedin)](https://www.linkedin.com/in/anna-liubchych-732a42241/)
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-626961?style=plastic&logo=Telegram)](https://t.me/anna_liubchych) [![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-626961?style=plastic&logo=Instagram)](https://www.instagram.com/hecallsmepanda/) [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-626961?style=plastic&logo=Linkedin)](https://www.linkedin.com/in/anna-liubchych-732a42241/)
