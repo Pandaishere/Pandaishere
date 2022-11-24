@@ -6,7 +6,7 @@
 [Link to my CV](https://drive.google.com/drive/u/0/folders/19bgj-Hs2pIr1NNqPJ_qfxiWeAWCI0EWT)
 
 ### Tools
-![JIRA](https://img.shields.io/badge/-JIRA-626961?style=plastic&logo=Jira&logoColor=39f) ![POSTMAN](https://img.shields.io/badge/-POSTMAN-626961?style=plastic&logo=Postman&logoColor=f63) ![GIT](https://img.shields.io/badge/-GIT-626961?style=plastic&logo=Git&logoColor=000000) ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-626961?style=plastic&logo=googlechrome&logoColor=3b85ff)
+![JIRA](https://img.shields.io/badge/-JIRA-626961?style=plastic&logo=Jira&logoColor=39f)  ![POSTMAN](https://img.shields.io/badge/-POSTMAN-626961?style=plastic&logo=Postman&logoColor=f63) ![GIT](https://img.shields.io/badge/-GIT-626961?style=plastic&logo=Git&logoColor=000000) ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-626961?style=plastic&logo=googlechrome&logoColor=3b85ff) ![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-626961?style=plastic&logo=Testrail&logoColor=39f)
 
 ### Testing documentation
 - Test-suites and Test-Cases
