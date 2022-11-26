@@ -11,7 +11,7 @@
 ### Testing documentation
 - Test-suites and Test-Cases
 - Bug-Reports
-- [! [Postman Collections](https://github.com/Pandaishere/Postman_Collection.git)]
+- [Postman Collections(https://github.com/Pandaishere/Postman_Collection.git)]
 
 ### Follow me 📲
 
