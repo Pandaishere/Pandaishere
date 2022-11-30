@@ -10,7 +10,7 @@
 
 ### Testing documentation
 - [Checklist](https://docs.google.com/spreadsheets/d/1us0pCJrZgE9OSDuIld88meq5WQLNZ1WoEP-zqUAEAis/edit#gid=0)
-- Test-suites and Test-Cases
+- [Test-Cases](https://github.com/Pandaishere/Test-Cases.git)
 - Bug-Reports
 - [Postman Collection](https://github.com/Pandaishere/Postman_Collection.git)
 
