@@ -11,7 +11,7 @@
 ### Testing documentation
 - [Checklist](https://docs.google.com/spreadsheets/d/1us0pCJrZgE9OSDuIld88meq5WQLNZ1WoEP-zqUAEAis/edit#gid=0)
 - [Test-Cases](https://github.com/Pandaishere/Test-Cases.git)
-- Bug-Reports
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/123lG_5PGe_jOmN2BMnJmIR8ftusvBGTo40xNpuwvgJU/edit#gid=0)
 - [Postman Collection](https://github.com/Pandaishere/Postman_Collection.git)
 
 
