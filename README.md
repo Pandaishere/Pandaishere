@@ -20,7 +20,7 @@
 
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-0d1c45?style=plastic&logo=Telegram)](https://t.me/anna_liubchych) [![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-0d1c45?style=plastic&logo=Instagram)](https://www.instagram.com/hecallsmepanda/) [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0d1c45?style=plastic&logo=Linkedin)](https://www.linkedin.com/in/anna-liubchych-732a42241/)
 
-[![Panda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandaishere&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Panda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandaishere&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
