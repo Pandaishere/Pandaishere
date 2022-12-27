@@ -3,7 +3,7 @@
 # I’m a Trainee Quality Assurance engineer from Ukraine, Kyiv 🇺🇦
 
 ## My CV 📃
-[Here is a link to my CV](https://drive.google.com/drive/u/0/folders/19bgj-Hs2pIr1NNqPJ_qfxiWeAWCI0EWT)
+[Here is a link to my CV]()
 
 ### Tools 💻🛠
 ![GIT](https://img.shields.io/badge/-GIT-0d1c45?style=plastic&logo=Git&logoColor=00000)
