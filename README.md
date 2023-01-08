@@ -3,7 +3,7 @@
 # I’m a Trainee Quality Assurance engineer from Ukraine, Kyiv 🇺🇦
 
 ## My CV 📃
-[Here is a link to my CV](https://drive.google.com/file/d/1fv97GJqkQf9zHh2XfPVA9WfL_wyCLySq/view?usp=sharing)
+[Here is a link to my CV](https://drive.google.com/file/d/15hgzbw19cVabV_vtbqriuml3fKyXsQOe/view?usp=sharing)
 
 ### Languages and Tools 💻
 ![GIT](https://img.shields.io/badge/-GIT-0d1c45?style=plastic&logo=Git&logoColor=00000)
@@ -12,7 +12,7 @@
 ![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-0d1c45?style=plastic&logo=Testrail&logoColor=39f)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-0d1c45?style=plastic&logo=Postman&logoColor=f63)
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-0d1c45?style=plastic&logo=googlechrome&logoColor=3b85ff)
-![SQL](https://img.shields.io/badge/-SQL-0d1c45?style=plastic&logo=sql&logoColor=e40c24)
+![SQL](https://img.shields.io/badge/-SQL-0d1c45?style=plastic&logo=sql&logoColor=e40c24)7
 ![MYSQL](https://img.shields.io/badge/-MYSQL-0d1c45?style=plastic&logo=mysql&logoColor=e40c24)
 
 ### Testing documentation 📄
