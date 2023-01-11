@@ -12,7 +12,7 @@
 ![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-0d1c45?style=plastic&logo=Testrail&logoColor=39f)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-0d1c45?style=plastic&logo=Postman&logoColor=f63)
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-0d1c45?style=plastic&logo=googlechrome&logoColor=3b85ff)
-![SQL](https://img.shields.io/badge/-SQL-0d1c45?style=plastic&logo=sql&logoColor=e40c24)7
+![SQL](https://img.shields.io/badge/-SQL-0d1c45?style=plastic&logo=sql&logoColor=e40c24)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-0d1c45?style=plastic&logo=mysql&logoColor=e40c24)
 
 ### Testing documentation 📄
