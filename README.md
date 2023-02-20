@@ -14,6 +14,7 @@
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-0d1c45?style=plastic&logo=googlechrome&logoColor=3b85ff)
 ![SQL](https://img.shields.io/badge/-SQL-0d1c45?style=plastic&logo=sql&logoColor=e40c24)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-0d1c45?style=plastic&logo=mysql&logoColor=e40c24)
+![Android Studio](https://img.shields.io/badge/-ANDROIDSTUDIO-0d1c45?style=plastic&logo=androidstudio&logoColor=d8ecef)
 
 ### Testing documentation 📄
 - [Checklists](https://docs.google.com/spreadsheets/d/1us0pCJrZgE9OSDuIld88meq5WQLNZ1WoEP-zqUAEAis/edit#gid=0)
