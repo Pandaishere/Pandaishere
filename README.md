@@ -17,9 +17,9 @@
 ![Android Studio](https://img.shields.io/badge/-ANDROIDSTUDIO-0d1c45?style=plastic&logo=androidstudio&logoColor=d8ecef)
 
 ### Testing documentation 📄
-- [Checklists](https://docs.google.com/spreadsheets/d/1us0pCJrZgE9OSDuIld88meq5WQLNZ1WoEP-zqUAEAis/edit#gid=0)
+- [Checklists](https://drive.google.com/drive/folders/1qJflD7OOGgcuA4w38fnPIhDE9kqMiHH1?usp=sharing)
 - [Test-Cases](https://github.com/Pandaishere/Test-Cases.git)
-- [Bug-Reports](https://docs.google.com/spreadsheets/d/123lG_5PGe_jOmN2BMnJmIR8ftusvBGTo40xNpuwvgJU/edit#gid=0)
+- [Bug-Reports](https://drive.google.com/drive/folders/1H2MISr6xSjW3iG1AgbW-qD3Vz_oqlJum?usp=sharing)
 - [Postman Collections](https://github.com/Pandaishere/Postman_Collection.git)
 
 
