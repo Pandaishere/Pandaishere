@@ -27,7 +27,7 @@
 
 ### Follow me 📲
 
-[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0d1c45?style=plastic&logo=Linkedin)](https://www.linkedin.com/in/anna-liubchych-732a42241/)
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0d1c45?style=plastic&logo=Linkedin)](https://www.linkedin.com/in/anna-liubchych-🇺🇦-732a42241/)
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-0d1c45?style=plastic&logo=Telegram)](https://t.me/ann_liubchych) 
 
 
