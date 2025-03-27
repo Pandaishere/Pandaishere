@@ -1,6 +1,6 @@
 [![Header](https://github.com/Pandaishere/Pandaishere/blob/main/assets/GitHub%20cover%20-%206.png)](https://www.linkedin.com/in/anna-liubchych-732a42241/)
 
-# I’m a Junior QA engineer from Ukraine, Kyiv | Ajax Systems 🇺🇦 
+# I’m a QA engineer from Ukraine, Kyiv | Ajax Systems 🇺🇦 
 
 ## My CV 📃
 [Here is a link to my CV](https://drive.google.com/file/d/12Kerd-42oGhQPKyTJ7dqM9wYML5Ffj0H/view?usp=share_link)
