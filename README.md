@@ -1,4 +1,4 @@
-[![Header](https://github.com/Pandaishere/Pandaishere/blob/main/assets/GitHub%20cover%20-%206.png)](https://www.linkedin.com/in/anna-liubchych-732a42241/)
+[![Header]([https://github.com/Pandaishere/Pandaishere/blob/main/assets/GitHub%20cover%20-%206.png)](https://www.linkedin.com/in/anna-liubchych-732a42241/](https://drive.google.com/file/d/1Q-Tdvn8IMmR3H0l0ZzM9hHMrtFGmGlot/view?usp=sharing))
 
 # I’m a QA engineer from Ukraine, Kyiv | Ajax Systems 🇺🇦 
 
